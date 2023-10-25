@@ -17,3 +17,5 @@
 7. Follow the respective app codes
 	+ chat_app.py
 	+ dalle_app.py
+
+8. YouTube Video Tutorial [Link](https://github.com/sarfarazit08/Streamlit-Azure-OpenAI-WebApp.git)
