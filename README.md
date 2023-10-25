@@ -2,8 +2,8 @@
 
 1. Azure Subscription - Trial or Paid
 2. Azure OpenAI service Access
-	a. Azure OpenAI Resource Provisioning
-	b. Azure OpenAI API url and access key
+	+ Azure OpenAI Resource Provisioning
+	+ Azure OpenAI API url and access key
 3. Python Installation
 4. Visual Studio Code Installation
 5. Other Python Packages To Code The Application. Install the required packages to work with the code.
@@ -15,5 +15,5 @@
 	API_BASE=https://oaisvc23.openai.azure.com/
 	```
 7. Follow the respective app codes
-	a. chat_app.py
-	b. dalle_app.py
+	+ chat_app.py
+	+ dalle_app.py
