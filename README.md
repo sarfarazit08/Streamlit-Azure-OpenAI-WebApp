@@ -1,8 +1,8 @@
 # Pre-requisite
 
 1. Azure Subscription - Trial or Paid
-2. Azure OpenAI service Access
-	+ Azure OpenAI Resource Provisioning
+2. Azure OpenAI Service Access [Raise Request](https://youtu.be/P-jZJBbW6VU)
+	+ Azure OpenAI [Resource Provisioning] (https://youtu.be/X83almIY_OQ)
 	+ Azure OpenAI API url and access key
 3. Python Installation
 4. Visual Studio Code Installation
